@@ -16,7 +16,7 @@ The Full-stack Software Engineer will join the IT committee of the Federation of
 
 ## Apply now
 
-- To apply for this position, please fill [this form](http://foo.com).
+- To apply for this position, please fill out [this form](http://foo.com).
 - Deadline: this position will remain open until we find the right candidate.
 - Prefered start date: January 3, 2023
 
