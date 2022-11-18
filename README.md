@@ -4,7 +4,7 @@
 
 The Full-stack Software Engineer:
 
-- is reponsible for the maintenance of the existing code base, new feature developement, test automation, and deployment of all WWOOF applications;
+- is responsible for the maintenance of the existing code base, new feature developement, test automation, and deployment of all WWOOF applications;
 - interacts with stakeholders to discuss their issues and needs, and has the ability and dynamism to make suggestions, propose new ideas;
 - writes code that is maintainable, readable, and aligned with the existing style (while feeling empowered to make proposals for refactoring);
 - designs engaging, responsive, and functional UXs for our members;
