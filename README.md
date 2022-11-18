@@ -34,6 +34,7 @@ To apply for this position, please fill [this form](http://foo.com).
 - UX design
 - Reponsive design
 - i18n
+- React Native
 
 ## Responsibilities
 
