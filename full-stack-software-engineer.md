@@ -8,11 +8,12 @@ The Full-stack Software Engineer:
 - interacts with stakeholders to discuss their issues and needs, and has the ability and dynamism to make suggestions, propose new ideas;
 - writes code that is maintainable, readable, and aligned with the existing style (while feeling empowered to make proposals for refactoring);
 - designs engaging, responsive, and functional UXs for WWOOF members;
-- works autonomously, with attention to detail and quality.
+- works autonomously, with attention to detail and quality;
+- helps answering support requests from WWOOF coordinators of the 20+ national organisations using the software.
 
 ## Context
 
-The Full-stack Software Engineer will join the IT committee of the Federation of WWOOF Organisations and take part in weekly triage meetings.
+The Full-stack Software Engineer will join the IT committee of the Federation of WWOOF Organisations (FoWO) and take part in weekly triage meetings. He or she will be working closely with the dev team and share responsibilities to ensure continuity of operations.
 
 ## Apply now
 
